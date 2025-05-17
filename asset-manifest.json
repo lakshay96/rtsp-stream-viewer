@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rtsp-stream-viewer/static/js/main.24e69fb9.js",
+    "index.html": "/rtsp-stream-viewer/index.html",
+    "main.24e69fb9.js.map": "/rtsp-stream-viewer/static/js/main.24e69fb9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.24e69fb9.js"
+  ]
+}
